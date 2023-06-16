@@ -22,8 +22,6 @@ public class C03_Locators {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
 
 
-
-
         //2- https://www.automationexercise.com/ adresine gidin
 
         driver.get("https://www.automationexercise.com/");
